@@ -59,6 +59,6 @@ public class StagMaintainerPreferenceController extends BasePreferenceController
 			return "Not Official Maintainer";
 		}
 	}
-	return "Unofficial Maintainer";
+	return "ImSpiDy";
     }
 }
